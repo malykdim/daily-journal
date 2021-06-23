@@ -6,6 +6,12 @@ const role = document.querySelector('.role')
 
 const testimonials = [
     {
+        name: 'Miyah Myles',
+        position: 'Marketing',
+        photo: 'https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+        text: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum necessitatibus est, ratione sunt, quos quasi neque dolorem corporis deleniti illum assumenda praesentium tempore eum recusandae id magni cum similique tenetur harum! Cupiditate, architecto expedita!'
+    },
+    {
         name: 'Iva Angolff',
         position: 'Content Writer',
         photo: 'https://images.unsplash.com/photo-1485875437342-9b39470b3d95?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80',
@@ -28,13 +34,7 @@ const testimonials = [
         position: 'Designer',
         photo: 'https://images.unsplash.com/photo-1520529277867-dbf8c5e0b340?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=333&q=80',
         text: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum necessitatibus est, ratione sunt, quos quasi neque dolorem corporis deleniti illum assumenda praesentium tempore eum recusandae id magni cum similique tenetur harum! Cupiditate, architecto expedita!'
-    },
-    {
-        name: 'Miyah Myles',
-        position: 'Marketing',
-        photo: 'https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
-        text: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum necessitatibus est, ratione sunt, quos quasi neque dolorem corporis deleniti illum assumenda praesentium tempore eum recusandae id magni cum similique tenetur harum! Cupiditate, architecto expedita!'
-    },
+    },    
     {
         name: 'Isack Kotuga',
         position: 'Photographer',
